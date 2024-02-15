@@ -6,11 +6,11 @@
 
 ## Github Stats:
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=noxs1d&show_icons=true&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=noxs1d&theme=tokyonight)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=noxs1d&theme=tokyonight)](https://github-profile-trophy.vercel.app/?username=noxs1d&theme=tokyonight)
 
 
 ## Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noxs1d&theme=tokyonight&langs_count=8)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noxs1d&theme=tokyonight&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=noxs1d&theme=tokyonight&langs_count=8)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='java' height='40'>](#)  [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' height='40'>](#)
 
 
