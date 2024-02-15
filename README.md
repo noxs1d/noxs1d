@@ -1,5 +1,5 @@
 # Hi, I'm Nurmukhammed ✨
-![https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](#)
+[![](https://github.com/noxs1d/noxs1d/blob/main/Gojo%20banner.jpg)](#)
 
 ## Personal info about me:
 - 🔭 I’m studying at Inha University in Tashkent
