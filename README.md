@@ -9,7 +9,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=noxs1d&theme=tokyonight)](https://github-profile-trophy.vercel.app/?username=noxs1d&theme=tokyonight)
 
 
-## Languages:
+## Languages & Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noxs1d&theme=tokyonight&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=noxs1d&theme=tokyonight&langs_count=8)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='java' height='40'>](#)  [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' height='40'>](#) [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git' height='40'>](#)
 
